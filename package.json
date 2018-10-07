@@ -1,0 +1,17 @@
+{
+  "name": "async_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fireCount.js",
+  "dependencies": {
+    "domain": "0.0.1",
+    "eslint": "^5.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
